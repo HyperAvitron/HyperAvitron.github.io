@@ -1,7 +1,7 @@
 {
   "name": "doc-express",
   "version": "0.1.0",
-  "homepage": "http://HyperAvitron.github.io/HyperAvitron.github.io",
+  "homepage": "http://HyperAvitron.github.io",
   "dependencies": {
     "@cdl/collapsible": "git+https://bitbucket.org/steve_xq_chen/cdl-collapsible.git#2.3.3",
     "@cdl/data-table": "git+https://bitbucket.org/steve_xq_chen/cdl-data-table.git#2.7.0",
